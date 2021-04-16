@@ -1,0 +1,14 @@
+{
+    "short_name": "GESTEL",
+    "name": "GESTEL WebApp",
+    "icons": [
+      {
+        "src": "/img/GESTEL-Logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "scope": "/"
+  }
